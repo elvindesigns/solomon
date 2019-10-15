@@ -3272,15 +3272,15 @@ Sidebar CSS
 }
 
 .widget-area .widget_axton_posts_thumb .item .thumb .fullimage.bg1 {
-  background-image: url(../img/blog/1.jpg);
+  background-image: url(../../news/images/01.jpeg);
 }
 
 .widget-area .widget_axton_posts_thumb .item .thumb .fullimage.bg2 {
-  background-image: url(../img/blog/2.jpg);
+  background-image: url(../../news/images/29.jpg);
 }
 
 .widget-area .widget_axton_posts_thumb .item .thumb .fullimage.bg3 {
-  background-image: url(../img/blog/3.jpg);
+  background-image: url(../../news/images/15.jpg);
 }
 
 .widget-area .widget_axton_posts_thumb .item .info {
